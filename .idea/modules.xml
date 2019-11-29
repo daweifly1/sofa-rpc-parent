@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/boot-nacos-demo/boot-nacos-demo.iml" filepath="$PROJECT_DIR$/boot-nacos-demo/boot-nacos-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot-nacos-demo/boot-nacos-demo-api/boot-nacos-demo-api.iml" filepath="$PROJECT_DIR$/boot-nacos-demo/boot-nacos-demo-api/boot-nacos-demo-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot-nacos-demo/boot-nacos-demo-client/boot-nacos-demo-client.iml" filepath="$PROJECT_DIR$/boot-nacos-demo/boot-nacos-demo-client/boot-nacos-demo-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot-nacos-demo/boot-nacos-demo-server/boot-nacos-demo-server.iml" filepath="$PROJECT_DIR$/boot-nacos-demo/boot-nacos-demo-server/boot-nacos-demo-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sofa-rpc-parent.iml" filepath="$PROJECT_DIR$/sofa-rpc-parent.iml" />
+    </modules>
+  </component>
+</project>
